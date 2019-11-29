@@ -1,2 +1,2 @@
 # GoChain
-A naive blockchain implementation in Golang
+A naive blockchain implementation in Golang.
